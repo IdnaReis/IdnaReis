@@ -1,8 +1,20 @@
-### Olá, eu sou a Idna 👋
+### Olá, eu sou a Idna 
 
-QA |Analista de Qualidade | Engenheira de Automação de Testes 
+**QA | Analista de Qualidade | Engenheira de Automação de Testes**
 
-Atuo com automação de testes end-to-end e de API, construindo suítes de teste confiáveis para garantir a qualidade de aplicações web e mobile.
+Em transição de carreira para QA, unindo 12+ anos de experiência em validação de dados, análise de crédito e prevenção a fraudes (Casas Bahia, Banco Cacique, SPC, Serasa, Boa Vista) com automação de testes moderna.
+
+---
+
+### 🎯 O que eu faço
+
+- 🔍 Planejamento e execução de testes manuais (funcionais, regressão, borda e negativos)
+- 📝 Criação de casos de teste e checklists com BDD
+- 🔌 Testes de API manual e automatizado com Postman + JavaScript
+- 🌐 Automação E2E com Cypress e Selenium (Page Object Model)
+- 🐍 Testes com Python + Pytest, JUnit, Mockito
+- 🔄 Versionamento com Git/GitHub e CI/CD com GitHub Actions
+- 🐛 Gestão de defeitos e relato de bugs com evidências
 
 ---
 
@@ -33,6 +45,20 @@ Atuo com automação de testes end-to-end e de API, construindo suítes de teste
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
 
+
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+
+
+---
+
+### 🎓 Formação e Certificações
+
+- 🏫 Análise e Desenvolvimento de Sistemas — Estácio (2025 - out/2027)
+- 📜 Automação de Testes para API com JS
+- 📜 Testes Automatizados com Cypress em Angular
+- 📜 23+ certificações em QA, Neo4j, IA e Cloud
 
 ---
 
