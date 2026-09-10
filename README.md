@@ -1,6 +1,6 @@
 ### Olá, eu sou a Idna 👋
 
-**QA | Test Automation Engineer**
+**QA |Analista de Qualidade | Engenheira de Automação de Testes **
 
 Atuo com automação de testes end-to-end e de API, construindo suítes de teste confiáveis para garantir a qualidade de aplicações web e mobile.
 
