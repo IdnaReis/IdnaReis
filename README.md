@@ -64,6 +64,7 @@ Em transição de carreira para QA, unindo 12+ anos de experiência em validaç�
 
 ### 📌 Projetos em destaque
 
+- 🛒 [verzel-store-qa](https://github.com/IdnaReis/verzel-store-qa) — Validação de cupom e frete grátis em e-commerce: 46 testes com Python + Playwright (API e E2E), 2 bugs documentados e CI no GitHub Actions
 - 🧪 [testes-e2e-playwright-python](https://github.com/IdnaReis/testes-e2e-playwright-python) — Testes E2E com Python + Playwright + Pytest, POM, BDD em Gherkin e CI
 - 🔌 [cypress-api-automation](https://github.com/IdnaReis/cypress-api-automation) — 60 testes de API com Cypress, contrato via JSON Schema e CI no GitHub Actions
 - 📱 [qa-testapp-espresso-compose](https://github.com/IdnaReis/qa-testapp-espresso-compose) — Testes de UI Android com Espresso + Kotlin
