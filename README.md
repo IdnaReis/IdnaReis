@@ -51,6 +51,10 @@ Em transição de carreira para QA, unindo 12+ anos de experiência em validaç�
 
 
 
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
 ---
 
 ### 🎓 Formação e Certificações
