@@ -64,6 +64,7 @@ Em transição de carreira para QA, unindo 12+ anos de experiência em validaç�
 
 ### 📌 Projetos em destaque
 
+- 🧾 [qa-saucedemo-manual-bdd-automacao](https://github.com/IdnaReis/qa-saucedemo-manual-bdd-automacao) — Testes manuais e exploratórios do SauceDemo: 15 casos, BDD/Gherkin e 14 bugs reportados com evidências
 - 🛒 [verzel-store-qa](https://github.com/IdnaReis/verzel-store-qa) — Testes de e-commerce com Python + Playwright (API e E2E), 2 bugs encontrados e CI
 - 🧪 [testes-e2e-playwright-python](https://github.com/IdnaReis/testes-e2e-playwright-python) — Testes E2E com Python + Playwright + Pytest, POM, BDD em Gherkin e CI
 - 🔌 [cypress-api-automation](https://github.com/IdnaReis/cypress-api-automation) — 60 testes de API com Cypress, contrato via JSON Schema e CI no GitHub Actions
